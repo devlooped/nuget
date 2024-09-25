@@ -5,7 +5,7 @@ on:
     - cron: "0 3 * * *"
 
 jobs:
-  changelog:
+  nuget:
     runs-on: ubuntu-latest
     steps:
       - name: 🤖 defaults
@@ -25,7 +25,7 @@ jobs:
       - name: ⚙ sponsors
         run: |
           dotnet tool update -g dotnet-sponsor
-          sponsor nuget
+          '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --with-token
 
       - name: ⬆️ commit
         run: |
