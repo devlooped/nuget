@@ -1,0 +1,33 @@
+name: nuget
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🤖 defaults
+        uses: devlooped/actions-bot@v1
+        with:
+          name: ${{ secrets.BOT_NAME }}
+          email: ${{ secrets.BOT_EMAIL }}
+          gh_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: 🤘 checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ env.GH_TOKEN }}
+          
+      - name: ⚙ sponsors
+        run: |
+          dotnet tool update -g dotnet-sponsor
+          sponsor nuget
+
+      - name: ⬆️ commit
+        run: |
+          git add *.json
+          (git commit -m "🖉 Update OSS contributors stats" && git push) || echo "Done"
