@@ -9,7 +9,10 @@ repo by providing support for shields.io badges.
 Examples:
 
 [![xunit dl/day](https://img.shields.io/endpoint?label=xunit%20downloads%2Fday&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl?xunit)](https://www.nuget.org/profiles/xunit)
+[![Popular NuGets](https://img.shields.io/endpoint?label=popular%20nugets&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall?xunit)](https://www.nuget.org/profiles/xunit)
 
 [![Prism dl/day](https://img.shields.io/endpoint?label=Prism%20daily%20downloads&color=blue&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl?PrismLibrary)](https://www.nuget.org/profiles/PrismLibrary)
+[![Popular NuGets](https://img.shields.io/endpoint?label=Prism%20favorites&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall?PrismLibrary)](https://www.nuget.org/profiles/PrismLibrary)
 
 [![Devlooped Downloads](https://img.shields.io/endpoint?label=devlooped%20daily&logo=githubsponsors&color=ea4aaa&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fdl?devlooped)](https://www.nuget.org/profiles/devlooped)
+[![Popular NuGets](https://img.shields.io/endpoint?label=loved%20nugets&style=social&logo=nuget&url=https%3A%2F%2Fsponsorlink.devlooped.com%2Fnuget%2Fall)](https://www.nuget.org/profiles/devlooped)
