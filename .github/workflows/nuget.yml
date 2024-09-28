@@ -1,6 +1,17 @@
 name: nuget
 on:
   workflow_dispatch:
+    inputs:
+      global:
+        type: choice
+        description: Collect General Stats
+        required: true
+        options: 
+        - $true
+        - $false
+      owner:
+        description: Collect Specific Owner Stats
+
   schedule:
     - cron: "0 2 1-7 * 6"
 
@@ -26,11 +37,16 @@ jobs:
         run: |
           dotnet tool update -g dotnet-sponsor
           $owners = gc owners.json | convertfrom-json
+          if ('${{ github.event.inputs.owner }}') {
+            $owners = @('${{ github.event.inputs.owner }}')
+          }
           foreach ($owner in $owners) {
             '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --oss-only false --with-token --force --owner $owner
           }
           # global stats for all packages
-          '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --force --with-token
+          if (${{ github.event.inputs.global || '$true' }}) {
+            '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --force --with-token
+          }
 
       - name: ⬆️ commit
         run: |
