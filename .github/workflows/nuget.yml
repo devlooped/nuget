@@ -19,13 +19,18 @@ jobs:
       - name: 🤘 checkout
         uses: actions/checkout@v4
         with:
-          ref: main
           token: ${{ env.GH_TOKEN }}
           
       - name: ⚙ sponsors
+        shell: pwsh
         run: |
           dotnet tool update -g dotnet-sponsor
-          '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --with-token
+          $owners = gc owners.json | convertfrom-json
+          foreach ($owner in $owners) {
+            '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --oss-only false --with-token --force --owner $owner
+          }
+          # global stats for all packages
+          '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --force --with-token
 
       - name: ⬆️ commit
         run: |
