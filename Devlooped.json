@@ -149,18 +149,18 @@
       "moq/moq"
     ],
     "kzu": [
-      "dotnetconfig/dotnet-config",
       "devlooped/Mvp.Xml",
       "devlooped/xunit.assemblyfixture",
+      "dotnetconfig/dotnet-config",
       "moq/moq",
-      "devlooped/nugetizer",
       "devlooped/ThisAssembly",
+      "devlooped/nugetizer",
       "devlooped/GitInfo",
       "devlooped/NuDoq",
       "devlooped/Merq",
+      "devlooped/dotnet-vs",
       "devlooped/chromium",
       "devlooped/xunit.vsix",
-      "devlooped/dotnet-vs",
       "devlooped/jq",
       "devlooped/avatar",
       "devlooped/dotnet-file",
@@ -171,23 +171,23 @@
       "devlooped/TableStorage",
       "devlooped/yaml",
       "devlooped/DependencyInjection.Attributed",
-      "devlooped/RxFree",
       "devlooped/isbn",
-      "devlooped/Web",
+      "devlooped/RxFree",
       "devlooped/web",
+      "devlooped/Web",
       "devlooped/SmallSharp",
-      "devlooped/dotnet-eventgrid",
       "devlooped/dotnet-evergreen",
-      "devlooped/WebSocketPipe",
       "devlooped/WebSocketChannel",
+      "devlooped/dotnet-eventgrid",
+      "devlooped/WebSocketPipe",
       "kzu/dotnet-echo",
-      "devlooped/dotnet-retest",
-      "devlooped/WebSocketeer",
       "devlooped/dotnet-stop",
+      "devlooped/WebSocketeer",
       "devlooped/dotnet-tor",
+      "devlooped/dotnet-retest",
       "devlooped/Dynamically",
-      "devlooped/Injector",
       "devlooped/PackageReferenceCleaner",
+      "devlooped/Injector",
       "devlooped/dotnet-trx",
       "devlooped/Azure.Functions.OpenApi",
       "devlooped/SponsorLink",
@@ -389,14 +389,14 @@
       "devlooped/Mvp.Xml",
       "devlooped/xunit.assemblyfixture",
       "moq/moq",
-      "devlooped/nugetizer",
       "devlooped/ThisAssembly",
+      "devlooped/nugetizer",
       "devlooped/GitInfo",
       "devlooped/NuDoq",
       "devlooped/Merq",
+      "devlooped/dotnet-vs",
       "devlooped/chromium",
       "devlooped/xunit.vsix",
-      "devlooped/dotnet-vs",
       "devlooped/jq",
       "devlooped/dotnet-file",
       "devlooped/dotnet-gcm",
@@ -406,21 +406,21 @@
       "devlooped/TableStorage",
       "devlooped/yaml",
       "devlooped/DependencyInjection.Attributed",
-      "devlooped/RxFree",
       "devlooped/isbn",
-      "devlooped/Web",
+      "devlooped/RxFree",
       "devlooped/web",
+      "devlooped/Web",
       "devlooped/SmallSharp",
-      "devlooped/dotnet-eventgrid",
       "devlooped/dotnet-evergreen",
-      "devlooped/WebSocketPipe",
       "devlooped/WebSocketChannel",
-      "devlooped/dotnet-retest",
+      "devlooped/dotnet-eventgrid",
+      "devlooped/WebSocketPipe",
       "devlooped/WebSocketeer",
       "devlooped/dotnet-tor",
+      "devlooped/dotnet-retest",
       "devlooped/Dynamically",
-      "devlooped/Injector",
       "devlooped/PackageReferenceCleaner",
+      "devlooped/Injector",
       "devlooped/dotnet-trx",
       "devlooped/SponsorLink",
       "devlooped/CloudActors",
@@ -545,8 +545,8 @@
       "devlooped/GitInfo",
       "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/xunit.vsix",
-      "devlooped/dotnet-vs"
+      "devlooped/dotnet-vs",
+      "devlooped/xunit.vsix"
     ],
     "jason-roberts": [
       "moq/moq"
@@ -1028,7 +1028,7 @@
       "xunit.vsix": 4
     },
     "devlooped/SponsorLink": {
-      "dotnet-sponsor": 56
+      "dotnet-sponsor": 104
     },
     "devlooped/Azure.Functions.OpenApi": {
       "Devlooped.Azure.Functions.OpenApi": 0
@@ -1150,12 +1150,12 @@
     "authors": "172",
     "repositories": "45",
     "packages": "81",
-    "downloads": "81"
+    "downloads": "206.1k"
   },
   "totals": {
     "authors": 172,
     "repositories": 45,
     "packages": 81,
-    "downloads": 206024
+    "downloads": 206072
   }
 }

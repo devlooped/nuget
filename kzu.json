@@ -59,14 +59,14 @@
     "adalon": [
       "devlooped/GitInfo",
       "devlooped/nugetizer",
-      "devlooped/NuDoq",
       "devlooped/Merq",
+      "devlooped/NuDoq",
       "devlooped/dotnet-vs",
       "devlooped/xunit.vsix"
     ],
     "akoeplinger": [
-      "KirillOsenkov/MSBuildStructuredLog",
       "mono/t4",
+      "KirillOsenkov/MSBuildStructuredLog",
       "mono/mono.posix"
     ],
     "gitfool": [
@@ -78,10 +78,10 @@
     "drieseng": [
       "moq/moq"
     ],
-    "IharBury": [
+    "georg-eckert-zeiss": [
       "moq/moq"
     ],
-    "georg-eckert-zeiss": [
+    "IharBury": [
       "moq/moq"
     ],
     "joncham": [
@@ -93,11 +93,11 @@
     "koutinho": [
       "moq/moq"
     ],
-    "valentin-p": [
-      "moq/moq"
-    ],
     "davidwengier": [
       "KirillOsenkov/MSBuildStructuredLog"
+    ],
+    "valentin-p": [
+      "moq/moq"
     ],
     "kg": [
       "mono/mono.posix"
@@ -183,11 +183,11 @@
     "viceroypenguin": [
       "devlooped/ThisAssembly"
     ],
-    "yuanrui": [
-      "mono/t4"
-    ],
     "rmarinho": [
       "KirillOsenkov/MSBuildStructuredLog"
+    ],
+    "yuanrui": [
+      "mono/t4"
     ],
     "jason-roberts": [
       "moq/moq"
@@ -196,16 +196,16 @@
       "devlooped/GitInfo"
     ],
     "xen2": [
-      "KirillOsenkov/MSBuildStructuredLog",
-      "mono/t4"
+      "mono/t4",
+      "KirillOsenkov/MSBuildStructuredLog"
     ],
     "jacksonh": [
       "mono/mono.posix"
     ],
-    "kostadinmarinov": [
+    "yorah": [
       "moq/moq"
     ],
-    "yorah": [
+    "kostadinmarinov": [
       "moq/moq"
     ],
     "daveaglick": [
@@ -214,10 +214,10 @@
     "ccyang314": [
       "moq/moq"
     ],
-    "bgianfo": [
+    "BihtSift": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
-    "BihtSift": [
+    "bgianfo": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
     "terrajobst": [
@@ -264,10 +264,10 @@
     "jonfortescue": [
       "mono/mono.posix"
     ],
-    "wismann": [
+    "snrnats": [
       "moq/moq"
     ],
-    "snrnats": [
+    "wismann": [
       "moq/moq"
     ],
     "yonahw": [
@@ -300,10 +300,10 @@
     "meebey": [
       "mono/mono.posix"
     ],
-    "MichalPavlik": [
+    "benvillalobos": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
-    "benvillalobos": [
+    "MichalPavlik": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
     "omajid": [
@@ -361,12 +361,12 @@
     "bvli": [
       "devlooped/GitInfo"
     ],
-    "jgiannuzzi": [
-      "mono/t4"
-    ],
     "directhex": [
       "KirillOsenkov/MSBuildStructuredLog",
       "mono/mono.posix"
+    ],
+    "jgiannuzzi": [
+      "mono/t4"
     ],
     "RehanSaeed": [
       "moq/moq"
@@ -383,11 +383,11 @@
     "jdom": [
       "moq/moq"
     ],
-    "MaceWindu": [
-      "mono/t4"
-    ],
     "peterder72": [
       "moq/moq"
+    ],
+    "MaceWindu": [
+      "mono/t4"
     ],
     "skolima": [
       "mono/mono.posix"
@@ -395,11 +395,11 @@
     "AndyGerlicher": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
-    "CeesKaas": [
-      "moq/moq"
-    ],
     "Redth": [
       "KirillOsenkov/MSBuildStructuredLog"
+    ],
+    "CeesKaas": [
+      "moq/moq"
     ],
     "Adam-S-Daniel": [
       "KirillOsenkov/MSBuildStructuredLog"
@@ -408,8 +408,8 @@
       "moq/moq"
     ],
     "alanmcgovern": [
-      "devlooped/GitInfo",
       "mono/t4",
+      "devlooped/GitInfo",
       "mono/mono.posix"
     ],
     "jamesmanning": [
@@ -421,11 +421,11 @@
     "alexander-beck": [
       "mono/t4"
     ],
-    "blurryline": [
-      "mono/t4"
-    ],
     "nosami": [
       "KirillOsenkov/MSBuildStructuredLog"
+    ],
+    "blurryline": [
+      "mono/t4"
     ],
     "SaroTasciyan": [
       "moq/moq"
@@ -437,12 +437,12 @@
       "KirillOsenkov/MSBuildStructuredLog"
     ],
     "atifaziz": [
+      "mono/t4",
       "devlooped/GitInfo",
       "dotnetconfig/dotnet-config",
-      "mono/t4",
       "devlooped/ThisAssembly",
-      "devlooped/dotnet-file",
-      "devlooped/avatar"
+      "devlooped/avatar",
+      "devlooped/dotnet-file"
     ],
     "kumpera": [
       "mono/mono.posix"
@@ -453,10 +453,10 @@
     "alexrp": [
       "mono/mono.posix"
     ],
-    "david-kalbermatten": [
+    "BenWoodcockWTG": [
       "moq/moq"
     ],
-    "BenWoodcockWTG": [
+    "david-kalbermatten": [
       "moq/moq"
     ],
     "bittailor": [
@@ -502,12 +502,12 @@
     "dammejed": [
       "moq/moq"
     ],
+    "decriptor": [
+      "KirillOsenkov/MSBuildStructuredLog"
+    ],
     "sandyarmstrong": [
       "KirillOsenkov/MSBuildStructuredLog",
       "devlooped/Injector"
-    ],
-    "decriptor": [
-      "KirillOsenkov/MSBuildStructuredLog"
     ],
     "RobSiklos": [
       "moq/moq"
@@ -575,10 +575,10 @@
     "ladipro": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
-    "Asafima": [
+    "alexsimply": [
       "moq/moq"
     ],
-    "alexsimply": [
+    "Asafima": [
       "moq/moq"
     ],
     "txdv": [
@@ -612,24 +612,24 @@
       "mono/mono.posix"
     ],
     "kzu": [
-      "KirillOsenkov/MSBuildStructuredLog",
+      "devlooped/Mvp.Xml",
       "devlooped/GitInfo",
       "moq/moq",
       "dotnetconfig/dotnet-config",
-      "devlooped/Mvp.Xml",
-      "devlooped/ThisAssembly",
+      "KirillOsenkov/MSBuildStructuredLog",
       "devlooped/xunit.assemblyfixture",
+      "devlooped/ThisAssembly",
       "devlooped/nugetizer",
-      "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/dotnet-vs",
+      "devlooped/NuDoq",
       "devlooped/chromium",
+      "devlooped/dotnet-vs",
       "devlooped/xunit.vsix",
-      "devlooped/dotnet-file",
       "devlooped/jq",
       "devlooped/avatar",
-      "devlooped/json",
+      "devlooped/dotnet-file",
       "devlooped/dotnet-gcm",
+      "devlooped/json",
       "devlooped/CredentialManager",
       "devlooped/TableStorage",
       "devlooped/CloudStorageAccount",
@@ -656,8 +656,8 @@
       "devlooped/dotnet-trx",
       "devlooped/Azure.Functions.OpenApi",
       "devlooped/oss",
-      "devlooped/SponsorLink",
       "devlooped/CloudActors",
+      "devlooped/SponsorLink",
       "devlooped/epub"
     ],
     "AntonC9018": [
@@ -760,14 +760,14 @@
     "n9": [
       "KirillOsenkov/MSBuildStructuredLog"
     ],
+    "Therzok": [
+      "mono/t4",
+      "devlooped/GitInfo",
+      "mono/mono.posix"
+    ],
     "mhutch": [
       "mono/t4",
       "devlooped/nugetizer"
-    ],
-    "Therzok": [
-      "devlooped/GitInfo",
-      "mono/t4",
-      "mono/mono.posix"
     ],
     "mdh1418": [
       "mono/mono.posix"
@@ -891,11 +891,11 @@
     "monojenkins": [
       "mono/mono.posix"
     ],
-    "Pjanssen": [
-      "moq/moq"
-    ],
     "jairbubbles": [
       "KirillOsenkov/MSBuildStructuredLog"
+    ],
+    "Pjanssen": [
+      "moq/moq"
     ],
     "esdrubal": [
       "mono/mono.posix"
@@ -997,21 +997,21 @@
       "devlooped/GitInfo"
     ],
     "devlooped-bot": [
+      "devlooped/Mvp.Xml",
       "devlooped/GitInfo",
       "moq/moq",
-      "devlooped/Mvp.Xml",
-      "devlooped/ThisAssembly",
       "devlooped/xunit.assemblyfixture",
+      "devlooped/ThisAssembly",
       "devlooped/nugetizer",
-      "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/dotnet-vs",
+      "devlooped/NuDoq",
       "devlooped/chromium",
+      "devlooped/dotnet-vs",
       "devlooped/xunit.vsix",
-      "devlooped/dotnet-file",
       "devlooped/jq",
-      "devlooped/json",
+      "devlooped/dotnet-file",
       "devlooped/dotnet-gcm",
+      "devlooped/json",
       "devlooped/CredentialManager",
       "devlooped/TableStorage",
       "devlooped/CloudStorageAccount",
@@ -1033,8 +1033,8 @@
       "devlooped/Injector",
       "devlooped/PackageReferenceCleaner",
       "devlooped/dotnet-trx",
-      "devlooped/SponsorLink",
       "devlooped/CloudActors",
+      "devlooped/SponsorLink",
       "devlooped/epub"
     ],
     "joacar": [
@@ -1682,7 +1682,7 @@
       "xunit.vsix": 4
     },
     "devlooped/SponsorLink": {
-      "dotnet-sponsor": 56
+      "dotnet-sponsor": 104
     },
     "devlooped/Azure.Functions.OpenApi": {
       "Devlooped.Azure.Functions.OpenApi": 0
@@ -2044,12 +2044,12 @@
     "authors": "319",
     "repositories": "49",
     "packages": "323",
-    "downloads": "323"
+    "downloads": "285.7k"
   },
   "totals": {
     "authors": 319,
     "repositories": 49,
     "packages": 323,
-    "downloads": 285619
+    "downloads": 285667
   }
 }
