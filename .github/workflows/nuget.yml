@@ -27,10 +27,10 @@ jobs:
           dotnet tool update -g dotnet-sponsor
           $owners = gc owners.json | convertfrom-json
           foreach ($owner in $owners) {
-            '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --oss-only false --with-token --force --owner $owner
+            '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --oss-only false --with-token --force --owner $owner
           }
           # global stats for all packages
-          '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --force --with-token
+          '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --force --with-token
 
       - name: ⬆️ commit
         run: |
