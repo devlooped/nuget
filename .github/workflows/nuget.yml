@@ -51,4 +51,6 @@ jobs:
       - name: ⬆️ commit
         run: |
           git add *.json
-          (git commit -m "🖉 Update OSS contributors stats" && git push) || echo "Done"
+          git commit -m "🖉 Update OSS contributors stats"
+          git pull
+          git push
