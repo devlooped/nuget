@@ -34,6 +34,8 @@ jobs:
           
       - name: ⚙ sponsors
         shell: pwsh
+        env:
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           dotnet tool update -g dotnet-sponsor
           $owners = gc owners.json | convertfrom-json
@@ -41,11 +43,11 @@ jobs:
             $owners = @('${{ github.event.inputs.owner }}')
           }
           foreach ($owner in $owners) {
-            '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --oss-only false --with-token --force --owner $owner
+            '${{ env.token }}' | sponsor nuget --tos --exceptions --oss-only false --with-token --force --owner $owner
           }
           # global stats for all packages
           if (${{ github.event.inputs.global || '$true' }}) {
-            '${{ secrets.DEVLOOPED_TOKEN }}' | sponsor nuget --tos --exceptions --force --with-token
+            '${{ env.token }}' | sponsor nuget --tos --exceptions --force --with-token
           }
 
       - name: ⬆️ commit
