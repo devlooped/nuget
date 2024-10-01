@@ -13,7 +13,7 @@ on:
         description: Collect Specific Owner Stats
 
   schedule:
-    - cron: "0 2 1-7 * 6"
+    - cron: "0 2 1 * *"
 
 jobs:
   nuget:
