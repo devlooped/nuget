@@ -41,11 +41,11 @@ jobs:
             $owners = @('${{ github.event.inputs.owner }}')
           }
           foreach ($owner in $owners) {
-            sponsor nuget --tos --exceptions --oss-only false --with-token --force --owner $owner
+            sponsor nuget --tos --exceptions --oss-only false --force --owner $owner
           }
           # global stats for all packages
           if (${{ github.event.inputs.global || '$true' }}) {
-            sponsor nuget --tos --exceptions --force --with-token
+            sponsor nuget --tos --exceptions --force
           }
 
       - name: ⬆️ commit
