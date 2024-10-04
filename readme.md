@@ -21,6 +21,15 @@ Source:
 )
 ```
 
+Additional package owners can be added via [owners.json](owners.json) so that all package stats can be collected for 
+the given accounts. Static badges can then be used for those, such as: 
+
+[![NuGet Packages](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fdevlooped%2Fnuget%2Fraw%2Frefs%2Fheads%2Fmain%2FDevlooped.json&query=%24.summary.packages&style=social&logo=nuget&label=devlooped%20packages)](https://www.nuget.org/profiles/devlooped)
+[![Daily Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fdevlooped%2Fnuget%2Fraw%2Frefs%2Fheads%2Fmain%2FDevlooped.json&query=%24.summary.downloads&style=social&logo=nuget&label=daily%20downloads
+)](https://www.nuget.org/profiles/devlooped)
+
+## SponsorLink Endpoint Badges
+
 The [SponsorLink reference implementation](https://www.devlooped.com/SponsorLink/github/) complements this 
 repo by providing support for the same shields.io badges for specific github accounts. 
 
