@@ -37,18 +37,15 @@
       "moq/moq"
     ],
     "adalon": [
-      "devlooped/nugetizer",
       "devlooped/GitInfo",
+      "devlooped/nugetizer",
       "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/dotnet-vs",
-      "devlooped/xunit.vsix"
+      "devlooped/xunit.vsix",
+      "devlooped/dotnet-vs"
     ],
     "aschuhardt": [
       "devlooped/NuDoq"
-    ],
-    "trejjam": [
-      "devlooped/GitInfo"
     ],
     "bfriesen": [
       "moq/moq"
@@ -57,14 +54,17 @@
       "moq/moq",
       "devlooped/avatar"
     ],
-    "tomcurran": [
+    "trejjam": [
       "devlooped/GitInfo"
     ],
-    "JimmyCushnie": [
+    "tomcurran": [
       "devlooped/GitInfo"
     ],
     "scott-xu": [
       "moq/moq"
+    ],
+    "JimmyCushnie": [
+      "devlooped/GitInfo"
     ],
     "Shereef": [
       "moq/moq"
@@ -90,11 +90,11 @@
     "JeffAshton": [
       "moq/moq"
     ],
-    "yorah": [
-      "moq/moq"
-    ],
     "ChristophLindemann": [
       "devlooped/nugetizer"
+    ],
+    "yorah": [
+      "moq/moq"
     ],
     "joeenzminger": [
       "moq/moq"
@@ -234,11 +234,11 @@
     "jeremymeng": [
       "moq/moq"
     ],
-    "powerdude": [
-      "moq/moq"
-    ],
     "migueldeicaza": [
       "devlooped/nugetizer"
+    ],
+    "powerdude": [
+      "moq/moq"
     ],
     "bentayloruk": [
       "devlooped/NuDoq"
@@ -339,11 +339,11 @@
     "hasaki": [
       "moq/moq"
     ],
-    "bigbearzhu": [
-      "devlooped/GitInfo"
-    ],
     "salfab": [
       "moq/moq"
+    ],
+    "bigbearzhu": [
+      "devlooped/GitInfo"
     ],
     "pimterry": [
       "moq/moq"
@@ -415,46 +415,46 @@
       "devlooped/GitInfo"
     ],
     "kzu": [
-      "devlooped/Mvp.Xml",
       "devlooped/xunit.assemblyfixture",
       "dotnetconfig/dotnet-config",
-      "moq/moq",
-      "devlooped/nugetizer",
       "devlooped/GitInfo",
+      "moq/moq",
+      "devlooped/Mvp.Xml",
       "devlooped/ThisAssembly",
+      "devlooped/nugetizer",
       "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/dotnet-vs",
-      "devlooped/chromium",
       "devlooped/xunit.vsix",
+      "devlooped/chromium",
       "devlooped/jq",
+      "devlooped/dotnet-vs",
       "devlooped/avatar",
       "devlooped/dotnet-file",
-      "devlooped/dotnet-gcm",
       "devlooped/json",
+      "devlooped/dotnet-gcm",
       "devlooped/CredentialManager",
       "devlooped/CloudStorageAccount",
       "devlooped/TableStorage",
       "devlooped/yaml",
       "devlooped/DependencyInjection.Attributed",
-      "devlooped/RxFree",
       "devlooped/isbn",
+      "devlooped/RxFree",
       "devlooped/web",
       "devlooped/Web",
       "devlooped/SmallSharp",
-      "devlooped/dotnet-evergreen",
       "devlooped/dotnet-eventgrid",
+      "devlooped/dotnet-evergreen",
       "devlooped/WebSocketPipe",
       "devlooped/WebSocketChannel",
       "kzu/dotnet-echo",
-      "devlooped/dotnet-stop",
-      "devlooped/dotnet-retest",
-      "devlooped/dotnet-tor",
       "devlooped/WebSocketeer",
+      "devlooped/dotnet-stop",
+      "devlooped/dotnet-tor",
       "devlooped/Dynamically",
       "devlooped/PackageReferenceCleaner",
-      "devlooped/Injector",
       "devlooped/dotnet-trx",
+      "devlooped/Injector",
+      "devlooped/dotnet-retest",
       "devlooped/SponsorLink",
       "devlooped/Azure.Functions.OpenApi",
       "devlooped/CloudActors",
@@ -918,7 +918,7 @@
     },
     "dotnetconfig/dotnet-config": {
       "dotnet-config": 37,
-      "DotNetConfig": 2394
+      "DotNetConfig": 2396
     },
     "devlooped/WebSocketPipe": {
       "WebSocketPipe": 2
@@ -938,7 +938,7 @@
     },
     "devlooped/json": {
       "JsonPoke": 41,
-      "JsonPeek": 62
+      "JsonPeek": 63
     },
     "devlooped/dotnet-file": {
       "dotnet-file": 79
@@ -963,10 +963,10 @@
     },
     "devlooped/chromium": {
       "dotnet-chromium": 10,
-      "chromium.linux-x64": 288,
-      "chromium.win-x64": 422,
+      "chromium.linux-x64": 289,
+      "chromium.win-x64": 423,
       "chromium.win-x86": 29,
-      "chromium": 278
+      "chromium": 280
     },
     "devlooped/WebSocketChannel": {
       "WebSocketChannel": 2
@@ -976,7 +976,7 @@
     },
     "devlooped/nugetizer": {
       "dotnet-nugetize": 5,
-      "NuGetizer": 252
+      "NuGetizer": 253
     },
     "devlooped/CloudStorageAccount": {
       "Devlooped.CloudStorageAccount": 37,
@@ -1014,7 +1014,7 @@
       "Logo.es": 2
     },
     "devlooped/SponsorLink": {
-      "dotnet-sponsor": 76
+      "dotnet-sponsor": 70
     },
     "devlooped/DependencyInjection.Attributed": {
       "Devlooped.Extensions.DependencyInjection.Attributed": 16
@@ -1023,19 +1023,19 @@
       "WebSocketeer": 2
     },
     "moq/moq": {
-      "Moq": 196625
+      "Moq": 197446
     },
     "devlooped/GitInfo": {
-      "GitInfo": 1306
+      "GitInfo": 1315
     },
     "devlooped/dotnet-gcm": {
       "dotnet-gcm": 46
     },
     "devlooped/Mvp.Xml": {
-      "Mvp.Xml": 1218
+      "Mvp.Xml": 1220
     },
     "devlooped/jq": {
-      "Devlooped.JQ": 665
+      "Devlooped.JQ": 670
     },
     "devlooped/xunit.assemblyfixture": {
       "xunit.assemblyfixture": 298
@@ -1053,28 +1053,28 @@
       "Devlooped.Azure.Functions.OpenApi": 0
     },
     "devlooped/ThisAssembly": {
-      "ThisAssembly.Project": 66,
-      "ThisAssembly.AssemblyInfo": 85,
-      "ThisAssembly.Vsix": 19,
-      "ThisAssembly.Constants": 1339,
-      "ThisAssembly.Metadata": 45,
+      "ThisAssembly.Project": 69,
+      "ThisAssembly.AssemblyInfo": 86,
+      "ThisAssembly.Vsix": 13,
+      "ThisAssembly.Constants": 1349,
+      "ThisAssembly.Metadata": 47,
       "ThisAssembly.Prerequisites": 115,
-      "ThisAssembly.Git": 73,
-      "ThisAssembly.Strings": 40,
-      "ThisAssembly": 34,
-      "ThisAssembly.Resources": 41
+      "ThisAssembly.Git": 74,
+      "ThisAssembly.Strings": 42,
+      "ThisAssembly": 36,
+      "ThisAssembly.Resources": 43
     }
   },
   "summary": {
     "authors": "171",
     "repositories": "45",
     "packages": "82",
-    "downloads": "206.6k"
+    "downloads": "207.5k"
   },
   "totals": {
     "authors": 171,
     "repositories": 45,
     "packages": 82,
-    "downloads": 206613
+    "downloads": 207469
   }
 }
