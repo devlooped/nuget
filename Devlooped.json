@@ -4,28 +4,28 @@
       "devlooped/NuDoq"
     ],
     "MSK61": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "JmlSaul": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "shadow-cs": [
       "devlooped/GitInfo"
     ],
     "urasandesu": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "norwd": [
       "devlooped/ThisAssembly"
     ],
     "weitzhandler": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "MatKubicki": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "xavierdecoster": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "0xced": [
       "devlooped/ThisAssembly"
@@ -34,24 +34,24 @@
       "devlooped/GitInfo"
     ],
     "idigra": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "adalon": [
       "devlooped/GitInfo",
       "devlooped/nugetizer",
       "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/xunit.vsix",
-      "devlooped/dotnet-vs"
+      "devlooped/dotnet-vs",
+      "devlooped/xunit.vsix"
     ],
     "aschuhardt": [
       "devlooped/NuDoq"
     ],
     "bfriesen": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "stakx": [
-      "moq/moq",
+      "devlooped/moq",
       "devlooped/avatar"
     ],
     "trejjam": [
@@ -61,88 +61,88 @@
       "devlooped/GitInfo"
     ],
     "scott-xu": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "JimmyCushnie": [
       "devlooped/GitInfo"
     ],
     "Shereef": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "fuzzybair": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "peterder72": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "viceroypenguin": [
       "devlooped/ThisAssembly"
     ],
     "Pjanssen": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ishatalkin": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "joacar": [
       "devlooped/GitInfo"
     ],
     "JeffAshton": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ChristophLindemann": [
       "devlooped/nugetizer"
     ],
     "yorah": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "joeenzminger": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "halllo": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "pedoc": [
       "devlooped/GitInfo"
     ],
     "MaStr11": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "rdingwall": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "david-kalbermatten": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "SeanKilleen": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "anilkamath87": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "OskarNS": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "snrnats": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "jason-roberts": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "stoo101": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "Therzok": [
       "devlooped/GitInfo"
     ],
     "tibel": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "emaf": [
       "devlooped/Merq"
     ],
     "adamfk": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "gpwen": [
       "devlooped/nugetizer"
@@ -151,46 +151,46 @@
       "devlooped/nugetizer"
     ],
     "jacker92": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "patridge": [
       "devlooped/nugetizer"
     ],
     "chkpnt": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "go-hoon": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "hahn-kev": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "jamesmanning": [
       "devlooped/GitInfo"
     ],
     "IharBury": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "Jehoel": [
       "devlooped/GitInfo"
     ],
     "valentin-p": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "alexbestul": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "quetzalcoatl": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "rauhs": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "BlythMeister": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "harveer07": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "PhenX": [
       "devlooped/ThisAssembly"
@@ -202,16 +202,16 @@
       "devlooped/GitInfo"
     ],
     "kostadinmarinov": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "tonyhallett": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "twsl": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "AndrewLane": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "tisis2": [
       "devlooped/GitInfo"
@@ -223,52 +223,52 @@
       "devlooped/Merq"
     ],
     "FelicePollano": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "lepijohnny": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "wahmedswl": [
       "devlooped/GitInfo"
     ],
     "jeremymeng": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "migueldeicaza": [
       "devlooped/nugetizer"
     ],
     "powerdude": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "bentayloruk": [
       "devlooped/NuDoq"
     ],
     "jcockhren": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "twsouthwick": [
       "dotnetconfig/dotnet-config"
     ],
     "alexsimply": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "chkn": [
       "devlooped/GitInfo"
     ],
     "Caraul": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ChrisMissal": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "RehanSaeed": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "RobSiklos": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "Albert221": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "xambot": [
       "devlooped/Merq"
@@ -283,10 +283,10 @@
       "devlooped/GitInfo"
     ],
     "ccyang314": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "dammejed": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "AntonC9018": [
       "devlooped/nugetizer"
@@ -298,19 +298,19 @@
       "devlooped/nugetizer"
     ],
     "georg-eckert-zeiss": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "Code-Grump": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "dueringa": [
       "devlooped/GitInfo"
     ],
     "theoy": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "wismann": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "williamb1024": [
       "devlooped/nugetizer"
@@ -319,13 +319,13 @@
       "devlooped/GitInfo"
     ],
     "drieseng": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ap0llo": [
       "devlooped/nugetizer"
     ],
     "vladonemo": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "likemike91": [
       "devlooped/dotnet-vs"
@@ -334,31 +334,31 @@
       "devlooped/GitInfo"
     ],
     "yonahw": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "hasaki": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "salfab": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "bigbearzhu": [
       "devlooped/GitInfo"
     ],
     "pimterry": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "corradocavalli": [
       "devlooped/WebSocketChannel"
     ],
     "tehmantra": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "socram8888": [
       "devlooped/GitInfo"
     ],
     "koutinho": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "olegtk": [
       "devlooped/Mvp.Xml"
@@ -367,13 +367,13 @@
       "devlooped/Injector"
     ],
     "frblondin": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "svick": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "AppChecker": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ndani14": [
       "devlooped/GitInfo"
@@ -385,28 +385,28 @@
       "devlooped/nugetizer"
     ],
     "BenWoodcockWTG": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "jdom": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ishimko": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "teo-tsirpanis": [
       "devlooped/SponsorLink"
     ],
     "informatorius": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "80er": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "SaroTasciyan": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "jacob-ewald": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "sbj42": [
       "devlooped/GitInfo"
@@ -416,20 +416,20 @@
     ],
     "kzu": [
       "devlooped/xunit.assemblyfixture",
-      "dotnetconfig/dotnet-config",
-      "devlooped/GitInfo",
-      "moq/moq",
       "devlooped/Mvp.Xml",
+      "devlooped/moq",
+      "devlooped/GitInfo",
+      "dotnetconfig/dotnet-config",
       "devlooped/ThisAssembly",
       "devlooped/nugetizer",
       "devlooped/NuDoq",
       "devlooped/Merq",
-      "devlooped/xunit.vsix",
+      "devlooped/dotnet-vs",
       "devlooped/chromium",
       "devlooped/jq",
-      "devlooped/dotnet-vs",
-      "devlooped/avatar",
+      "devlooped/xunit.vsix",
       "devlooped/dotnet-file",
+      "devlooped/avatar",
       "devlooped/json",
       "devlooped/dotnet-gcm",
       "devlooped/CredentialManager",
@@ -437,32 +437,31 @@
       "devlooped/TableStorage",
       "devlooped/yaml",
       "devlooped/DependencyInjection.Attributed",
-      "devlooped/isbn",
       "devlooped/RxFree",
-      "devlooped/web",
+      "devlooped/isbn",
       "devlooped/Web",
       "devlooped/SmallSharp",
       "devlooped/dotnet-eventgrid",
       "devlooped/dotnet-evergreen",
       "devlooped/WebSocketPipe",
-      "devlooped/WebSocketChannel",
       "kzu/dotnet-echo",
-      "devlooped/WebSocketeer",
-      "devlooped/dotnet-stop",
+      "devlooped/WebSocketChannel",
       "devlooped/dotnet-tor",
+      "devlooped/WebSocketeer",
+      "devlooped/dotnet-retest",
+      "devlooped/dotnet-stop",
+      "devlooped/Injector",
       "devlooped/Dynamically",
       "devlooped/PackageReferenceCleaner",
-      "devlooped/dotnet-trx",
-      "devlooped/Injector",
-      "devlooped/dotnet-retest",
       "devlooped/SponsorLink",
+      "devlooped/dotnet-trx",
       "devlooped/Azure.Functions.OpenApi",
       "devlooped/CloudActors",
       "devlooped/epub",
       "devlooped/dotnet-burn"
     ],
     "iskiselev": [
-      "moq/moq",
+      "devlooped/moq",
       "devlooped/nugetizer"
     ],
     "nikolamilekic": [
@@ -472,19 +471,19 @@
       "devlooped/nugetizer"
     ],
     "ashmind": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "Saibamen": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "jknaudt21": [
       "devlooped/json"
     ],
     "iPazooki": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "bradreimer": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "alastairtree": [
       "devlooped/SmallSharp"
@@ -493,36 +492,36 @@
       "devlooped/GitInfo"
     ],
     "bkijonka": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "PadreSVK": [
-      "dotnetconfig/dotnet-config",
-      "devlooped/GitInfo"
+      "devlooped/GitInfo",
+      "dotnetconfig/dotnet-config"
     ],
     "adam-knights": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ysc3839": [
       "devlooped/GitInfo"
     ],
     "JohanLarsson": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "mizbrodin": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "johnthcall": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "atifaziz": [
-      "dotnetconfig/dotnet-config",
       "devlooped/GitInfo",
+      "dotnetconfig/dotnet-config",
       "devlooped/ThisAssembly",
-      "devlooped/avatar",
-      "devlooped/dotnet-file"
+      "devlooped/dotnet-file",
+      "devlooped/avatar"
     ],
     "breyed": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "abock": [
       "devlooped/GitInfo"
@@ -540,19 +539,19 @@
       "devlooped/nugetizer"
     ],
     "bittailor": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "CeesKaas": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "DanWillman": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "Asafima": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "ocoanet": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "alanmcgovern": [
       "devlooped/GitInfo"
@@ -561,10 +560,10 @@
       "devlooped/nugetizer"
     ],
     "abatishchev": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "lukas-ais": [
-      "moq/moq"
+      "devlooped/moq"
     ],
     "mauroa": [
       "devlooped/Merq"
@@ -572,9 +571,6 @@
   },
   "repositories": {
     "devlooped/dotnet-burn": [
-      "kzu"
-    ],
-    "devlooped/web": [
       "kzu"
     ],
     "devlooped/Injector": [
@@ -592,6 +588,107 @@
       "PadreSVK",
       "atifaziz",
       "twsouthwick"
+    ],
+    "devlooped/moq": [
+      "stakx",
+      "kzu",
+      "jeremymeng",
+      "ishimko",
+      "salfab",
+      "tonyhallett",
+      "scott-xu",
+      "ocoanet",
+      "FelicePollano",
+      "theoy",
+      "snrnats",
+      "pimterry",
+      "bfriesen",
+      "stoo101",
+      "MatKubicki",
+      "quetzalcoatl",
+      "lepijohnny",
+      "yorah",
+      "iskiselev",
+      "Shereef",
+      "Code-Grump",
+      "Caraul",
+      "adam-knights",
+      "joeenzminger",
+      "RobSiklos",
+      "yonahw",
+      "JmlSaul",
+      "Pjanssen",
+      "tibel",
+      "powerdude",
+      "drieseng",
+      "rauhs",
+      "twsl",
+      "vladonemo",
+      "abatishchev",
+      "JeffAshton",
+      "RehanSaeed",
+      "MaStr11",
+      "lukas-ais",
+      "hahn-kev",
+      "hasaki",
+      "bittailor",
+      "breyed",
+      "alexsimply",
+      "ChrisMissal",
+      "OskarNS",
+      "peterder72",
+      "svick",
+      "rdingwall",
+      "SaroTasciyan",
+      "SeanKilleen",
+      "weitzhandler",
+      "MSK61",
+      "tehmantra",
+      "mizbrodin",
+      "halllo",
+      "iPazooki",
+      "fuzzybair",
+      "frblondin",
+      "xavierdecoster",
+      "alexbestul",
+      "anilkamath87",
+      "AppChecker",
+      "ccyang314",
+      "bradreimer",
+      "harveer07",
+      "idigra",
+      "informatorius",
+      "ishatalkin",
+      "kostadinmarinov",
+      "valentin-p",
+      "wismann",
+      "80er",
+      "adamfk",
+      "Saibamen",
+      "urasandesu",
+      "Albert221",
+      "koutinho",
+      "AndrewLane",
+      "ashmind",
+      "Asafima",
+      "bkijonka",
+      "BenWoodcockWTG",
+      "CeesKaas",
+      "BlythMeister",
+      "DanWillman",
+      "david-kalbermatten",
+      "georg-eckert-zeiss",
+      "chkpnt",
+      "IharBury",
+      "jacker92",
+      "jacob-ewald",
+      "jason-roberts",
+      "go-hoon",
+      "dammejed",
+      "JohanLarsson",
+      "johnthcall",
+      "jdom",
+      "jcockhren"
     ],
     "devlooped/WebSocketPipe": [
       "kzu"
@@ -712,107 +809,6 @@
     "devlooped/WebSocketeer": [
       "kzu"
     ],
-    "moq/moq": [
-      "stakx",
-      "kzu",
-      "jeremymeng",
-      "ishimko",
-      "salfab",
-      "tonyhallett",
-      "scott-xu",
-      "ocoanet",
-      "FelicePollano",
-      "theoy",
-      "snrnats",
-      "pimterry",
-      "bfriesen",
-      "stoo101",
-      "MatKubicki",
-      "quetzalcoatl",
-      "lepijohnny",
-      "yorah",
-      "iskiselev",
-      "Shereef",
-      "Code-Grump",
-      "Caraul",
-      "adam-knights",
-      "joeenzminger",
-      "RobSiklos",
-      "yonahw",
-      "JmlSaul",
-      "Pjanssen",
-      "tibel",
-      "powerdude",
-      "drieseng",
-      "rauhs",
-      "twsl",
-      "vladonemo",
-      "abatishchev",
-      "JeffAshton",
-      "RehanSaeed",
-      "MaStr11",
-      "lukas-ais",
-      "hahn-kev",
-      "hasaki",
-      "bittailor",
-      "breyed",
-      "alexsimply",
-      "ChrisMissal",
-      "OskarNS",
-      "peterder72",
-      "svick",
-      "rdingwall",
-      "SaroTasciyan",
-      "SeanKilleen",
-      "weitzhandler",
-      "MSK61",
-      "tehmantra",
-      "mizbrodin",
-      "halllo",
-      "iPazooki",
-      "fuzzybair",
-      "frblondin",
-      "xavierdecoster",
-      "alexbestul",
-      "anilkamath87",
-      "AppChecker",
-      "ccyang314",
-      "bradreimer",
-      "harveer07",
-      "idigra",
-      "informatorius",
-      "ishatalkin",
-      "kostadinmarinov",
-      "valentin-p",
-      "wismann",
-      "80er",
-      "adamfk",
-      "Saibamen",
-      "urasandesu",
-      "Albert221",
-      "koutinho",
-      "AndrewLane",
-      "ashmind",
-      "Asafima",
-      "bkijonka",
-      "BenWoodcockWTG",
-      "CeesKaas",
-      "BlythMeister",
-      "DanWillman",
-      "david-kalbermatten",
-      "georg-eckert-zeiss",
-      "chkpnt",
-      "IharBury",
-      "jacker92",
-      "jacob-ewald",
-      "jason-roberts",
-      "go-hoon",
-      "dammejed",
-      "JohanLarsson",
-      "johnthcall",
-      "jdom",
-      "jcockhren"
-    ],
     "devlooped/GitInfo": [
       "kzu",
       "gitfool",
@@ -894,10 +890,6 @@
       "handbrake.win": 0,
       "dotnet-burn": 0
     },
-    "devlooped/web": {
-      "Devlooped.Xml.Css": 5,
-      "Devlooped.Html": 3
-    },
     "devlooped/Injector": {
       "Devlooped.Injector": 2
     },
@@ -919,6 +911,9 @@
     "dotnetconfig/dotnet-config": {
       "dotnet-config": 37,
       "DotNetConfig": 2396
+    },
+    "devlooped/moq": {
+      "Moq": 197446
     },
     "devlooped/WebSocketPipe": {
       "WebSocketPipe": 2
@@ -1022,9 +1017,6 @@
     "devlooped/WebSocketeer": {
       "WebSocketeer": 2
     },
-    "moq/moq": {
-      "Moq": 197446
-    },
     "devlooped/GitInfo": {
       "GitInfo": 1315
     },
@@ -1047,6 +1039,8 @@
       "dotnet-trx": 7
     },
     "devlooped/Web": {
+      "Devlooped.Xml.Css": 5,
+      "Devlooped.Html": 3,
       "Devlooped.Web": 9
     },
     "devlooped/Azure.Functions.OpenApi": {
@@ -1054,7 +1048,7 @@
     },
     "devlooped/ThisAssembly": {
       "ThisAssembly.Project": 69,
-      "ThisAssembly.AssemblyInfo": 86,
+      "ThisAssembly.AssemblyInfo": 87,
       "ThisAssembly.Vsix": 13,
       "ThisAssembly.Constants": 1349,
       "ThisAssembly.Metadata": 47,
@@ -1067,14 +1061,14 @@
   },
   "summary": {
     "authors": "171",
-    "repositories": "45",
+    "repositories": "44",
     "packages": "82",
     "downloads": "207.5k"
   },
   "totals": {
     "authors": 171,
-    "repositories": 45,
+    "repositories": 44,
     "packages": 82,
-    "downloads": 207469
+    "downloads": 207470
   }
 }
