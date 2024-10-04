@@ -87,8 +87,8 @@
       "KirillOsenkov/MSBuildStructuredLog"
     ],
     "Therzok": [
-      "devlooped/GitInfo",
       "mono/t4",
+      "devlooped/GitInfo",
       "mono/mono.posix"
     ],
     "rolfbjarne": [
@@ -366,18 +366,18 @@
       "devlooped/GitInfo",
       "devlooped/moq",
       "KirillOsenkov/MSBuildStructuredLog",
-      "dotnetconfig/dotnet-config",
       "devlooped/xunit.assemblyfixture",
-      "devlooped/ThisAssembly",
+      "dotnetconfig/dotnet-config",
       "devlooped/nugetizer",
+      "devlooped/ThisAssembly",
       "devlooped/Merq",
       "devlooped/NuDoq",
-      "devlooped/xunit.vsix",
       "devlooped/chromium",
-      "devlooped/jq",
+      "devlooped/xunit.vsix",
       "devlooped/dotnet-vs",
-      "devlooped/avatar",
+      "devlooped/jq",
       "devlooped/dotnet-file",
+      "devlooped/avatar",
       "devlooped/dotnet-gcm",
       "devlooped/json",
       "devlooped/CredentialManager",
@@ -395,8 +395,8 @@
       "devlooped/WebSocketPipe",
       "kzu/dotnet-echo",
       "devlooped/WebSocketeer",
-      "devlooped/dotnet-retest",
       "devlooped/dotnet-tor",
+      "devlooped/dotnet-retest",
       "kzu/Gherkinator",
       "devlooped/dotnet-stop",
       "devlooped/Dynamically",
@@ -680,12 +680,12 @@
       "KirillOsenkov/MSBuildStructuredLog"
     ],
     "atifaziz": [
-      "devlooped/GitInfo",
       "mono/t4",
+      "devlooped/GitInfo",
       "dotnetconfig/dotnet-config",
       "devlooped/ThisAssembly",
-      "devlooped/avatar",
-      "devlooped/dotnet-file"
+      "devlooped/dotnet-file",
+      "devlooped/avatar"
     ],
     "ishatalkin": [
       "devlooped/moq"
@@ -772,15 +772,15 @@
     "pimterry": [
       "devlooped/moq"
     ],
-    "tpodolak": [
-      "devlooped/xunit.assemblyfixture"
-    ],
     "ewxrjk": [
       "mono/mono.posix"
     ],
+    "tpodolak": [
+      "devlooped/xunit.assemblyfixture"
+    ],
     "alanmcgovern": [
-      "devlooped/GitInfo",
       "mono/t4",
+      "devlooped/GitInfo",
       "mono/mono.posix"
     ],
     "PiotrZierhoffer": [
@@ -1904,7 +1904,7 @@
       "WebSocketeer": 2
     },
     "devlooped/GitInfo": {
-      "GitInfo": 1315
+      "GitInfo": 1312
     },
     "devlooped/dotnet-gcm": {
       "dotnet-gcm": 46
@@ -1965,6 +1965,6 @@
     "authors": 318,
     "repositories": 48,
     "packages": 324,
-    "downloads": 288208
+    "downloads": 288205
   }
 }

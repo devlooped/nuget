@@ -416,10 +416,10 @@
     ],
     "kzu": [
       "devlooped/xunit.assemblyfixture",
+      "dotnetconfig/dotnet-config",
       "devlooped/Mvp.Xml",
       "devlooped/moq",
       "devlooped/GitInfo",
-      "dotnetconfig/dotnet-config",
       "devlooped/ThisAssembly",
       "devlooped/nugetizer",
       "devlooped/NuDoq",
@@ -428,8 +428,8 @@
       "devlooped/chromium",
       "devlooped/jq",
       "devlooped/xunit.vsix",
-      "devlooped/dotnet-file",
       "devlooped/avatar",
+      "devlooped/dotnet-file",
       "devlooped/json",
       "devlooped/dotnet-gcm",
       "devlooped/CredentialManager",
@@ -437,24 +437,24 @@
       "devlooped/TableStorage",
       "devlooped/yaml",
       "devlooped/DependencyInjection.Attributed",
-      "devlooped/RxFree",
       "devlooped/isbn",
+      "devlooped/RxFree",
       "devlooped/Web",
       "devlooped/SmallSharp",
-      "devlooped/dotnet-eventgrid",
       "devlooped/dotnet-evergreen",
+      "devlooped/WebSocketChannel",
+      "devlooped/dotnet-eventgrid",
       "devlooped/WebSocketPipe",
       "kzu/dotnet-echo",
-      "devlooped/WebSocketChannel",
-      "devlooped/dotnet-tor",
       "devlooped/WebSocketeer",
       "devlooped/dotnet-retest",
+      "devlooped/dotnet-tor",
       "devlooped/dotnet-stop",
-      "devlooped/Injector",
       "devlooped/Dynamically",
       "devlooped/PackageReferenceCleaner",
-      "devlooped/SponsorLink",
+      "devlooped/Injector",
       "devlooped/dotnet-trx",
+      "devlooped/SponsorLink",
       "devlooped/Azure.Functions.OpenApi",
       "devlooped/CloudActors",
       "devlooped/epub",
@@ -495,8 +495,8 @@
       "devlooped/moq"
     ],
     "PadreSVK": [
-      "devlooped/GitInfo",
-      "dotnetconfig/dotnet-config"
+      "dotnetconfig/dotnet-config",
+      "devlooped/GitInfo"
     ],
     "adam-knights": [
       "devlooped/moq"
@@ -514,11 +514,11 @@
       "devlooped/moq"
     ],
     "atifaziz": [
-      "devlooped/GitInfo",
       "dotnetconfig/dotnet-config",
+      "devlooped/GitInfo",
       "devlooped/ThisAssembly",
-      "devlooped/dotnet-file",
-      "devlooped/avatar"
+      "devlooped/avatar",
+      "devlooped/dotnet-file"
     ],
     "breyed": [
       "devlooped/moq"
@@ -1018,7 +1018,7 @@
       "WebSocketeer": 2
     },
     "devlooped/GitInfo": {
-      "GitInfo": 1315
+      "GitInfo": 1312
     },
     "devlooped/dotnet-gcm": {
       "dotnet-gcm": 46
@@ -1069,6 +1069,6 @@
     "authors": 171,
     "repositories": 44,
     "packages": 82,
-    "downloads": 207470
+    "downloads": 207467
   }
 }
