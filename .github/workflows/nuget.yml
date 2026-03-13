@@ -12,8 +12,8 @@ on:
         description: Collect General Stats
         required: true
         options: 
-        - $true
         - $false
+        - $true
       owner:
         description: Collect Specific Owner Stats
 
