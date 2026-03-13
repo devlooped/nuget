@@ -2,6 +2,11 @@ name: nuget
 on:
   workflow_dispatch:
     inputs:
+      timeout:
+        type: number
+        description: Timeout in minutes
+        required: false
+        default: 360
       global:
         type: choice
         description: Collect General Stats
@@ -18,7 +23,7 @@ on:
 jobs:
   nuget:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: ${{ fromJSON(github.event.inputs.timeout || '360') }}
     steps:
       - name: 🤖 defaults
         uses: devlooped/actions-bot@v1
@@ -45,7 +50,7 @@ jobs:
             sponsor nuget --tos --exceptions --oss-only false --force --owner $owner
           }
           # global stats for all packages
-          if (${{ github.event.inputs.global || '$true' }}) {
+          if (${{ github.event_name == 'workflow_dispatch' && github.event.inputs.global == '$true' }}) {
             sponsor nuget --tos --exceptions --force
           }
 
