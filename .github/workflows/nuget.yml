@@ -18,7 +18,7 @@ on:
 jobs:
   nuget:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - name: 🤖 defaults
         uses: devlooped/actions-bot@v1
