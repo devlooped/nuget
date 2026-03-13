@@ -11,6 +11,7 @@ on:
         type: choice
         description: Collect General Stats
         required: true
+        default: $false
         options: 
         - $false
         - $true
@@ -23,7 +24,7 @@ on:
 jobs:
   nuget:
     runs-on: ubuntu-latest
-    timeout-minutes: ${{ fromJSON(github.event.inputs.timeout || '360') }}
+    timeout-minutes: ${{ fromJSON(github.event.inputs.timeout || '30') }}
     steps:
       - name: 🤖 defaults
         uses: devlooped/actions-bot@v1
