@@ -41,6 +41,7 @@ jobs:
           
       - name: ⚙ sponsors
         shell: pwsh
+        continue-on-error: true
         run: |
           dotnet tool update -g dotnet-sponsor
           $owners = gc owners.json | convertfrom-json
