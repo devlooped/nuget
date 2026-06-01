@@ -288,9 +288,6 @@
     "blurryline": [
       "mono/t4"
     ],
-    "bradreimer": [
-      "devlooped/moq"
-    ],
     "breyed": [
       "devlooped/moq"
     ],
@@ -568,6 +565,7 @@
       "devlooped/dotnet-gcm",
       "devlooped/dotnet-openai",
       "devlooped/dotnet-retest",
+      "devlooped/dotnet-stop",
       "devlooped/dotnet-tor",
       "devlooped/dotnet-trx",
       "devlooped/dotnet-vs",
@@ -694,6 +692,9 @@
     ],
     "patridge": [
       "devlooped/nugetizer"
+    ],
+    "paulomorgado": [
+      "devlooped/dotnet-vs"
     ],
     "pedoc": [
       "devlooped/GitInfo"
@@ -1082,6 +1083,9 @@
       "Tasteful",
       "kzu"
     ],
+    "devlooped/dotnet-stop": [
+      "kzu"
+    ],
     "devlooped/dotnet-tor": [
       "kzu"
     ],
@@ -1091,7 +1095,8 @@
     "devlooped/dotnet-vs": [
       "adalon",
       "kzu",
-      "likemike91"
+      "likemike91",
+      "paulomorgado"
     ],
     "devlooped/dotnet-x": [
       "Copilot",
@@ -1154,7 +1159,6 @@
       "bfriesen",
       "bittailor",
       "bkijonka",
-      "bradreimer",
       "breyed",
       "ccyang314",
       "chkpnt",
@@ -1396,22 +1400,22 @@
       "CommonComposition": 8,
       "CommonComposition.Autofac": 5,
       "CommonComposition.Autofac.Source": 2,
-      "CommonComposition.Mef": 181,
+      "CommonComposition.Mef": 179,
       "CommonComposition.Mef.Source": 2,
       "CommonComposition.Ninject": 3,
-      "CommonComposition.Ninject.Source": 1,
+      "CommonComposition.Ninject.Source": 2,
       "CommonComposition.Source": 2,
       "CommonComposition.Unity": 12,
       "CommonComposition.Unity.Source": 1,
       "CommonComposition.Windsor": 8,
-      "CommonComposition.Windsor.Source": 1,
+      "CommonComposition.Windsor.Source": 2,
       "CommonServiceLocator.Source": 1,
       "CoreBuild": 2,
       "CoreBuild.ColoredConsoleLogger": 5,
       "CoreBuild.Help": 5,
       "CoreBuild.Updater": 15,
       "Guard": 1,
-      "IFluentInterface": 26,
+      "IFluentInterface": 28,
       "InjectModuleInitializer": 32,
       "Logo": 0,
       "Logo.es": 2,
@@ -1421,7 +1425,7 @@
       "MSBuilder.CodeTaskAssembly": 33,
       "MSBuilder.DownloadFile": 2,
       "MSBuilder.DumpItems": 5,
-      "MSBuilder.GenerateAssemblyInfo": 58,
+      "MSBuilder.GenerateAssemblyInfo": 59,
       "MSBuilder.Git": 18,
       "MSBuilder.Introspect": 2,
       "MSBuilder.IsAdministrator": 0,
@@ -1429,7 +1433,7 @@
       "MSBuilder.NuGet.GetLatestVersion": 2,
       "MSBuilder.PR": 1,
       "MSBuilder.ReadItemsFromFile": 5,
-      "MSBuilder.RegexReplace": 2,
+      "MSBuilder.RegexReplace": 3,
       "MSBuilder.Roslyn": 2,
       "MSBuilder.Run": 1,
       "MSBuilder.TaskInliner": 1,
@@ -1438,7 +1442,7 @@
       "MSBuilder.ThisAssembly.Vsix": 8,
       "MSBuilder.VisualStudio.InstallVsix": 0,
       "MSBuilder.VisualStudioVersions": 0,
-      "MSBuilder.VsixDependency": 4,
+      "MSBuilder.VsixDependency": 3,
       "MSBuilder.WiX.ProjectReferenceMetadata": 0,
       "MSBuilder.WriteItemsToFile": 5,
       "MSBuilder.XmlPoke": 15,
@@ -1459,7 +1463,7 @@
       "QuaranTime": 0,
       "ReactiveSockets": 4,
       "Roslynator": 3,
-      "SemanticGit.Changelog": 2,
+      "SemanticGit.Changelog": 3,
       "Sleet.Azure": 2,
       "SmallBasic": 0,
       "SmartReferences": 2,
@@ -1469,7 +1473,7 @@
       "Tracer": 7,
       "Tracer.EntLib": 2,
       "Tracer.NLog": 2,
-      "Tracer.SystemDiagnostics": 6,
+      "Tracer.SystemDiagnostics": 7,
       "Tracer.log4net": 2,
       "Windows.Bits": 2,
       "Xamarin.Forms.Dynamic": 4,
@@ -1481,7 +1485,7 @@
       "dotnet-guit": 0,
       "guit": 0,
       "netfx-Assertions": 2,
-      "netfx-Guard": 72,
+      "netfx-Guard": 73,
       "netfx-Guard.Tests.xUnit": 4,
       "netfx-IpsumGenerator": 3,
       "netfx-Microsoft.ApplicationServer.Http.HttpWebService": 3,
@@ -1494,7 +1498,7 @@
       "netfx-Patterns.DomainContext.EF": 1,
       "netfx-Patterns.DomainContext.EF.Tests.xUnit": 1,
       "netfx-Patterns.DomainContextEventSourcing.EF": 0,
-      "netfx-Patterns.EventSourcing": 2,
+      "netfx-Patterns.EventSourcing": 3,
       "netfx-Patterns.EventSourcing.AutoWire": 1,
       "netfx-Patterns.EventSourcing.AutoWire.Tests.xUnit": 1,
       "netfx-Patterns.EventSourcing.EF": 2,
@@ -1545,7 +1549,7 @@
       "netfx-System.Collections.Generic.KeyValuePair.Tests.xUnit": 0,
       "netfx-System.ComponentModel.Attributes": 0,
       "netfx-System.ComponentModel.Attributes.Tests.xUnit": 0,
-      "netfx-System.ComponentModel.FilteringReflectionCatalog": 4,
+      "netfx-System.ComponentModel.FilteringReflectionCatalog": 5,
       "netfx-System.ComponentModel.LocalizableAttributes": 0,
       "netfx-System.Componentmodel.LocalizableAttributes.Tests.xUnit": 0,
       "netfx-System.DateTimeEpochExtensions": 5,
@@ -1554,13 +1558,13 @@
       "netfx-System.Dynamic.Reflection.Tests.xUnit": 1,
       "netfx-System.GzipSerializer": 0,
       "netfx-System.GzipSerializer.Tests.xUnit": 0,
-      "netfx-System.IO.Packaging.StreamUnpack": 6,
+      "netfx-System.IO.Packaging.StreamUnpack": 7,
       "netfx-System.IO.Packaging.StreamUnpack.Tests.xUnit": 0,
       "netfx-System.IO.StreamClone": 0,
       "netfx-System.IO.StreamClone.Tests": 0,
       "netfx-System.IO.StreamGetBytes": 1,
       "netfx-System.IO.StreamGetBytes.Tests": 0,
-      "netfx-System.IO.StreamWriteTo": 7,
+      "netfx-System.IO.StreamWriteTo": 8,
       "netfx-System.IO.StreamWriteTo.Tests": 0,
       "netfx-System.ISerializer": 5,
       "netfx-System.ISerializer.Tests.xUnit": 1,
@@ -1592,7 +1596,7 @@
       "netfx-System.SequentialGuid.Tests.xUnit": 0,
       "netfx-System.ServiceProvider": 3,
       "netfx-System.ServiceProvider.Tests": 1,
-      "netfx-System.StringFormatWith": 20,
+      "netfx-System.StringFormatWith": 21,
       "netfx-System.StringFormatWith.Tests": 0,
       "netfx-System.StringResources": 26,
       "netfx-System.Threading.ThreadData": 2,
@@ -1611,7 +1615,7 @@
       "netfx-System.Xml.XmlDecode.Tests": 0,
       "netfx-System.Xml.XmlEncode": 0,
       "netfx-System.Xml.XmlEncode.Tests": 0,
-      "netfx-System.Xml.XmlSerializer": 1039,
+      "netfx-System.Xml.XmlSerializer": 1080,
       "netfx-System.Xml.XmlSerializer.Tests": 0,
       "netfx-System.XmlSerializer": 0,
       "netfx-System.XmlSerializer.Tests.xUnit": 0,
@@ -1632,7 +1636,7 @@
       "Devlooped.CloudStorageAccount.Source": 2
     },
     "devlooped/CredentialManager": {
-      "Devlooped.CredentialManager": 37
+      "Devlooped.CredentialManager": 38
     },
     "devlooped/DependencyInjection": {
       "Devlooped.Extensions.DependencyInjection": 16,
@@ -1642,16 +1646,16 @@
       "Devlooped.Dynamically": 3
     },
     "devlooped/Extensions.AI": {
-      "Devlooped.Extensions.AI": 14
+      "Devlooped.Extensions.AI": 13
     },
     "devlooped/GitInfo": {
-      "GitInfo": 2712
+      "GitInfo": 2765
     },
     "devlooped/Injector": {
       "Devlooped.Injector": 2
     },
     "devlooped/JQSharp": {
-      "Devlooped.JQSharp": 11
+      "Devlooped.JQSharp": 13
     },
     "devlooped/Merq": {
       "Merq": 5,
@@ -1661,7 +1665,7 @@
       "Merq.VisualStudio": 1
     },
     "devlooped/Mvp.Xml": {
-      "Mvp.Xml": 1530
+      "Mvp.Xml": 1548
     },
     "devlooped/NuDoq": {
       "NuDoq": 72
@@ -1679,19 +1683,19 @@
       "SmallSharp": 5
     },
     "devlooped/Spectre.Yaml": {
-      "Devlooped.Spectre.Yaml": 9
+      "Devlooped.Spectre.Yaml": 4
     },
     "devlooped/SponsorLink": {
-      "dotnet-sponsor": 11
+      "dotnet-sponsor": 8
     },
     "devlooped/StructId": {
-      "StructId": 2
+      "StructId": 24
     },
     "devlooped/TableStorage": {
       "Devlooped.TableStorage": 34,
       "Devlooped.TableStorage.Bson": 4,
       "Devlooped.TableStorage.Bson.Source": 7,
-      "Devlooped.TableStorage.MessagePack": 4,
+      "Devlooped.TableStorage.MessagePack": 3,
       "Devlooped.TableStorage.MessagePack.Source": 6,
       "Devlooped.TableStorage.Newtonsoft": 4,
       "Devlooped.TableStorage.Newtonsoft.Source": 6,
@@ -1700,15 +1704,15 @@
       "Devlooped.TableStorage.Source": 9
     },
     "devlooped/ThisAssembly": {
-      "ThisAssembly": 69,
-      "ThisAssembly.AssemblyInfo": 136,
-      "ThisAssembly.Constants": 826,
-      "ThisAssembly.Git": 121,
-      "ThisAssembly.Metadata": 81,
-      "ThisAssembly.Prerequisites": 65,
-      "ThisAssembly.Project": 136,
-      "ThisAssembly.Resources": 105,
-      "ThisAssembly.Strings": 78,
+      "ThisAssembly": 71,
+      "ThisAssembly.AssemblyInfo": 143,
+      "ThisAssembly.Constants": 980,
+      "ThisAssembly.Git": 127,
+      "ThisAssembly.Metadata": 85,
+      "ThisAssembly.Prerequisites": 63,
+      "ThisAssembly.Project": 147,
+      "ThisAssembly.Resources": 109,
+      "ThisAssembly.Strings": 80,
       "ThisAssembly.Vsix": 5
     },
     "devlooped/Web": {
@@ -1726,22 +1730,22 @@
       "WebSocketeer": 2
     },
     "devlooped/WhatsApp": {
-      "Devlooped.WhatsApp": 8,
+      "Devlooped.WhatsApp": 7,
       "dotnet-whatsapp": 4
     },
     "devlooped/avatar": {
-      "Avatar": 59,
+      "Avatar": 58,
       "Avatar.CodeAnalysis": 0,
       "Avatar.DynamicProxy": 0,
       "Avatar.StaticProxy": 0,
       "ManualAvatars": 0
     },
     "devlooped/chromium": {
-      "chromium": 108,
-      "chromium.linux-x64": 52,
-      "chromium.win-x64": 68,
-      "chromium.win-x86": 10,
-      "dotnet-chromium": 11
+      "chromium": 270,
+      "chromium.linux-x64": 139,
+      "chromium.win-x64": 157,
+      "chromium.win-x86": 9,
+      "dotnet-chromium": 10
     },
     "devlooped/dotnet-env": {
       "dotnet-env": 2
@@ -1756,7 +1760,7 @@
       "dotnet-file": 77
     },
     "devlooped/dotnet-gcm": {
-      "dotnet-gcm": 62
+      "dotnet-gcm": 63
     },
     "devlooped/dotnet-openai": {
       "dotnet-openai": 2
@@ -1764,14 +1768,17 @@
     "devlooped/dotnet-retest": {
       "dotnet-retest": 612
     },
+    "devlooped/dotnet-stop": {
+      "stop": 2
+    },
     "devlooped/dotnet-tor": {
       "dotnet-tor": 1
     },
     "devlooped/dotnet-trx": {
-      "dotnet-trx": 749
+      "dotnet-trx": 848
     },
     "devlooped/dotnet-vs": {
-      "dotnet-vs": 59
+      "dotnet-vs": 58
     },
     "devlooped/dotnet-x": {
       "dotnet-x": 1
@@ -1783,39 +1790,38 @@
       "ISBN": 33
     },
     "devlooped/jq": {
-      "Devlooped.JQ": 1261
+      "Devlooped.JQ": 1237
     },
     "devlooped/json": {
-      "JsonPeek": 93,
-      "JsonPoke": 52
+      "JsonPeek": 95,
+      "JsonPoke": 53
     },
     "devlooped/json5": {
-      "Json5": 11,
-      "Json5.Configuration": 10
+      "Json5": 9,
+      "Json5.Configuration": 8
     },
     "devlooped/moq": {
-      "Moq": 332465
+      "Moq": 343104
     },
     "devlooped/nugetizer": {
-      "NuGetizer": 291,
-      "dotnet-nugetize": 7
+      "NuGetizer": 310,
+      "dotnet-nugetize": 6
     },
     "devlooped/oss": {
       "SponsorableLib": 0
     },
     "devlooped/runfile": {
-      "runcs": 2,
-      "runfile": 7
+      "runfile": 6
     },
     "devlooped/smith": {
       "Smith": 5
     },
     "devlooped/xAI": {
-      "grok": 8,
-      "xAI": 24
+      "grok": 7,
+      "xAI": 26
     },
     "devlooped/xunit.assemblyfixture": {
-      "xunit.assemblyfixture": 436
+      "xunit.assemblyfixture": 446
     },
     "devlooped/xunit.vsix": {
       "xunit.vsix": 1
@@ -1824,35 +1830,35 @@
       "YamlPeek": 38
     },
     "dotnetconfig/dotnet-config": {
-      "DotNetConfig": 2756,
+      "DotNetConfig": 2798,
       "DotNetConfig.CommandLine": 4,
       "DotNetConfig.Configuration": 17,
-      "dotnet-config": 60
+      "dotnet-config": 62
     },
     "kzu/Gherkinator": {
       "Gherkinator": 1,
       "Gherkinator.Build": 0
     },
     "kzu/dotnet-echo": {
-      "dotnet-echo": 17
+      "dotnet-echo": 18
     },
     "mono/mono.posix": {
-      "Mono.Posix": 1690
+      "Mono.Posix": 1707
     },
     "mono/t4": {
-      "Mono.TextTemplating": 207229
+      "Mono.TextTemplating": 217625
     }
   },
   "summary": {
     "authors": "266",
-    "repositories": "59",
+    "repositories": "60",
     "packages": "340",
-    "downloads": "556.8k"
+    "downloads": "578.7k"
   },
   "totals": {
     "authors": 266,
-    "repositories": 59,
+    "repositories": 60,
     "packages": 340,
-    "downloads": 556830
+    "downloads": 578689
   }
 }
