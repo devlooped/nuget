@@ -3,6 +3,9 @@
     "0xced": [
       "devlooped/ThisAssembly"
     ],
+    "2087125770wzy": [
+      "kzu/CodeAlta"
+    ],
     "AmoreCadenza": [
       "devlooped/GitInfo"
     ],
@@ -20,21 +23,56 @@
     ],
     "Copilot": [
       "devlooped/CloudActors",
+      "devlooped/CloudStorageAccount",
+      "devlooped/CredentialManager",
+      "devlooped/DependencyInjection",
+      "devlooped/Dynamically",
       "devlooped/Extensions.AI",
       "devlooped/JQSharp",
+      "devlooped/Merq",
+      "devlooped/Mvp.Xml",
+      "devlooped/NuDoq",
+      "devlooped/PackageReferenceCleaner",
+      "devlooped/RxFree",
       "devlooped/Schematron",
+      "devlooped/SmallSharp",
+      "devlooped/Spectre.Yaml",
+      "devlooped/SponsorLink",
       "devlooped/StructId",
+      "devlooped/TableStorage",
+      "devlooped/ThisAssembly",
+      "devlooped/Web",
+      "devlooped/WebSocketChannel",
+      "devlooped/WebSocketPipe",
+      "devlooped/WebSocketeer",
       "devlooped/WhatsApp",
       "devlooped/chromium",
       "devlooped/dotnet-env",
+      "devlooped/dotnet-eventgrid",
+      "devlooped/dotnet-evergreen",
+      "devlooped/dotnet-file",
       "devlooped/dotnet-gcm",
       "devlooped/dotnet-openai",
+      "devlooped/dotnet-retest",
+      "devlooped/dotnet-stop",
+      "devlooped/dotnet-tor",
+      "devlooped/dotnet-trx",
+      "devlooped/dotnet-vs",
       "devlooped/dotnet-x",
+      "devlooped/epub",
+      "devlooped/go",
+      "devlooped/isbn",
       "devlooped/jq",
+      "devlooped/json",
+      "devlooped/json5",
+      "devlooped/moq",
       "devlooped/nugetizer",
       "devlooped/oss",
       "devlooped/runfile",
+      "devlooped/smith",
+      "devlooped/stunts",
       "devlooped/xAI",
+      "devlooped/xunit.assemblyfixture",
       "kzu/run"
     ],
     "CzBiX": [
@@ -57,6 +95,9 @@
     ],
     "MaceWindu": [
       "mono/t4"
+    ],
+    "MihaZupan": [
+      "kzu/CodeAlta"
     ],
     "MobileManiC": [
       "devlooped/GitInfo"
@@ -82,6 +123,9 @@
     ],
     "Tasteful": [
       "devlooped/dotnet-retest"
+    ],
+    "TechInterMezzo": [
+      "kzu/CodeAlta"
     ],
     "Thefrank": [
       "mono/mono.posix"
@@ -134,6 +178,9 @@
     ],
     "alexwiese": [
       "devlooped/runfile"
+    ],
+    "amutel-datagalaxy": [
+      "kzu/CodeAlta"
     ],
     "andersforsgren": [
       "devlooped/GitInfo"
@@ -197,6 +244,9 @@
     "christianerbsmehl": [
       "devlooped/GitInfo"
     ],
+    "cl1107": [
+      "kzu/CodeAlta"
+    ],
     "codingdave": [
       "devlooped/GitInfo"
     ],
@@ -209,6 +259,7 @@
     "cursoragent": [
       "devlooped/DependencyInjection",
       "devlooped/SponsorLink",
+      "devlooped/dotnet-trx",
       "devlooped/okf"
     ],
     "danielcweber": [
@@ -321,6 +372,9 @@
       "mono/mono.posix",
       "mono/t4"
     ],
+    "kevingosse": [
+      "kzu/CodeAlta"
+    ],
     "kg": [
       "mono/mono.posix"
     ],
@@ -398,6 +452,7 @@
       "devlooped/xunit.vsix",
       "devlooped/yaml",
       "dotnetconfig/dotnet-config",
+      "kzu/CodeAlta",
       "kzu/Gherkinator",
       "kzu/dotnet-echo",
       "kzu/run"
@@ -413,6 +468,9 @@
     ],
     "likemike91": [
       "devlooped/dotnet-vs"
+    ],
+    "lilianmisser": [
+      "kzu/CodeAlta"
     ],
     "luhenry": [
       "mono/mono.posix"
@@ -471,6 +529,9 @@
     "ndani14": [
       "devlooped/GitInfo"
     ],
+    "nguerrera": [
+      "kzu/CodeAlta"
+    ],
     "nicholi": [
       "mono/mono.posix"
     ],
@@ -520,11 +581,17 @@
       "mono/mono.posix",
       "mono/t4"
     ],
+    "rvillain": [
+      "kzu/CodeAlta"
+    ],
     "sandyarmstrong": [
       "devlooped/Injector"
     ],
     "sbj42": [
       "devlooped/GitInfo"
+    ],
+    "sebastienros": [
+      "kzu/CodeAlta"
     ],
     "sethjackson": [
       "mono/mono.posix"
@@ -549,6 +616,9 @@
       "devlooped/moq",
       "devlooped/stunts"
     ],
+    "stefannikolei": [
+      "kzu/CodeAlta"
+    ],
     "steffen-kiess": [
       "mono/mono.posix"
     ],
@@ -566,6 +636,9 @@
     ],
     "tomcurran": [
       "devlooped/GitInfo"
+    ],
+    "tomflenner": [
+      "kzu/CodeAlta"
     ],
     "tomkcook": [
       "mono/t4"
@@ -603,6 +676,9 @@
     "williamb1024": [
       "devlooped/nugetizer"
     ],
+    "windischb": [
+      "kzu/CodeAlta"
+    ],
     "wjk": [
       "devlooped/nugetizer"
     ],
@@ -610,10 +686,14 @@
       "devlooped/Merq"
     ],
     "xen2": [
+      "kzu/CodeAlta",
       "mono/t4"
     ],
     "xmcclure": [
       "mono/mono.posix"
+    ],
+    "xoofx": [
+      "kzu/CodeAlta"
     ],
     "xplicit": [
       "mono/t4"
@@ -640,16 +720,20 @@
       "kzu"
     ],
     "devlooped/CloudStorageAccount": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/CredentialManager": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/DependencyInjection": [
+      "Copilot",
       "cursoragent",
       "kzu"
     ],
     "devlooped/Dynamically": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/Extensions.AI": [
@@ -703,6 +787,7 @@
       "kzu"
     ],
     "devlooped/Merq": [
+      "Copilot",
       "adalon",
       "cadsit",
       "emaf",
@@ -712,11 +797,13 @@
       "xambot"
     ],
     "devlooped/Mvp.Xml": [
+      "Copilot",
       "epithet",
       "kzu",
       "olegtk"
     ],
     "devlooped/NuDoq": [
+      "Copilot",
       "adalon",
       "aschuhardt",
       "bentayloruk",
@@ -725,9 +812,11 @@
       "peteroupc"
     ],
     "devlooped/PackageReferenceCleaner": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/RxFree": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/Schematron": [
@@ -737,13 +826,16 @@
       "pmgfrederico"
     ],
     "devlooped/SmallSharp": [
+      "Copilot",
       "alastairtree",
       "kzu"
     ],
     "devlooped/Spectre.Yaml": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/SponsorLink": [
+      "Copilot",
       "cursoragent",
       "kzu",
       "teo-tsirpanis"
@@ -753,10 +845,12 @@
       "kzu"
     ],
     "devlooped/TableStorage": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/ThisAssembly": [
       "0xced",
+      "Copilot",
       "PhenX-Pro",
       "atifaziz",
       "kzu",
@@ -765,16 +859,20 @@
       "viceroypenguin"
     ],
     "devlooped/Web": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/WebSocketChannel": [
+      "Copilot",
       "corradocavalli",
       "kzu"
     ],
     "devlooped/WebSocketPipe": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/WebSocketeer": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/WhatsApp": [
@@ -791,12 +889,15 @@
       "kzu"
     ],
     "devlooped/dotnet-eventgrid": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/dotnet-evergreen": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/dotnet-file": [
+      "Copilot",
       "atifaziz",
       "kzu"
     ],
@@ -809,19 +910,25 @@
       "kzu"
     ],
     "devlooped/dotnet-retest": [
+      "Copilot",
       "Tasteful",
       "kzu"
     ],
     "devlooped/dotnet-stop": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/dotnet-tor": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/dotnet-trx": [
+      "Copilot",
+      "cursoragent",
       "kzu"
     ],
     "devlooped/dotnet-vs": [
+      "Copilot",
       "adalon",
       "kzu",
       "likemike91",
@@ -832,12 +939,15 @@
       "kzu"
     ],
     "devlooped/epub": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/go": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/isbn": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/jq": [
@@ -845,13 +955,16 @@
       "kzu"
     ],
     "devlooped/json": [
+      "Copilot",
       "jknaudt21",
       "kzu"
     ],
     "devlooped/json5": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/moq": [
+      "Copilot",
       "adalon",
       "blairconrad",
       "kzu",
@@ -890,9 +1003,11 @@
       "kzu"
     ],
     "devlooped/smith": [
+      "Copilot",
       "kzu"
     ],
     "devlooped/stunts": [
+      "Copilot",
       "atifaziz",
       "kzu",
       "stakx"
@@ -903,6 +1018,7 @@
       "zarusz"
     ],
     "devlooped/xunit.assemblyfixture": [
+      "Copilot",
       "kzu",
       "tpodolak"
     ],
@@ -918,6 +1034,24 @@
       "atifaziz",
       "kzu",
       "twsouthwick"
+    ],
+    "kzu/CodeAlta": [
+      "2087125770wzy",
+      "MihaZupan",
+      "TechInterMezzo",
+      "amutel-datagalaxy",
+      "cl1107",
+      "kevingosse",
+      "kzu",
+      "lilianmisser",
+      "nguerrera",
+      "rvillain",
+      "sebastienros",
+      "stefannikolei",
+      "tomflenner",
+      "windischb",
+      "xen2",
+      "xoofx"
     ],
     "kzu/Gherkinator": [
       "kzu"
@@ -1052,7 +1186,7 @@
       "CommonComposition": 8,
       "CommonComposition.Autofac": 5,
       "CommonComposition.Autofac.Source": 2,
-      "CommonComposition.Mef": 175,
+      "CommonComposition.Mef": 174,
       "CommonComposition.Mef.Source": 2,
       "CommonComposition.Ninject": 3,
       "CommonComposition.Ninject.Source": 2,
@@ -1067,17 +1201,17 @@
       "CoreBuild.Help": 5,
       "CoreBuild.Updater": 15,
       "Guard": 1,
-      "IFluentInterface": 37,
+      "IFluentInterface": 38,
       "InjectModuleInitializer": 33,
       "Logo": 0,
       "Logo.es": 2,
       "MSBuilder": 10,
-      "MSBuilder.AssemblyAttribute": 2,
+      "MSBuilder.AssemblyAttribute": 3,
       "MSBuilder.CI": 3,
-      "MSBuilder.CodeTaskAssembly": 33,
+      "MSBuilder.CodeTaskAssembly": 32,
       "MSBuilder.DownloadFile": 2,
       "MSBuilder.DumpItems": 5,
-      "MSBuilder.GenerateAssemblyInfo": 65,
+      "MSBuilder.GenerateAssemblyInfo": 66,
       "MSBuilder.Git": 18,
       "MSBuilder.Introspect": 2,
       "MSBuilder.IsAdministrator": 0,
@@ -1087,7 +1221,7 @@
       "MSBuilder.ReadItemsFromFile": 5,
       "MSBuilder.RegexReplace": 3,
       "MSBuilder.Roslyn": 2,
-      "MSBuilder.Run": 1,
+      "MSBuilder.Run": 2,
       "MSBuilder.TaskInliner": 1,
       "MSBuilder.ThisAssembly.Metadata": 7,
       "MSBuilder.ThisAssembly.Project": 4,
@@ -1121,7 +1255,7 @@
       "StringlyTyped": 2,
       "StringlyTyped.Tests.xUnit": 2,
       "System.Diagnostics.Tracer": 117,
-      "Tracer": 7,
+      "Tracer": 8,
       "Tracer.EntLib": 2,
       "Tracer.NLog": 2,
       "Tracer.SystemDiagnostics": 7,
@@ -1136,7 +1270,7 @@
       "dotnet-guit": 0,
       "guit": 0,
       "netfx-Assertions": 2,
-      "netfx-Guard": 73,
+      "netfx-Guard": 74,
       "netfx-Guard.Tests.xUnit": 4,
       "netfx-IpsumGenerator": 3,
       "netfx-Microsoft.ApplicationServer.Http.HttpWebService": 3,
@@ -1178,7 +1312,7 @@
       "netfx-System.BinarySerializer.Tests.xUnit": 0,
       "netfx-System.BsonSerializer": 0,
       "netfx-System.BsonSerializer.Tests.xUnit": 0,
-      "netfx-System.Clock": 1,
+      "netfx-System.Clock": 2,
       "netfx-System.Clock.Tests.xUnit": 1,
       "netfx-System.Collections.Generic.CollectionAddRange": 1,
       "netfx-System.Collections.Generic.CollectionAddRange.Tests.xUnit": 1,
@@ -1215,7 +1349,7 @@
       "netfx-System.IO.StreamClone.Tests": 0,
       "netfx-System.IO.StreamGetBytes": 2,
       "netfx-System.IO.StreamGetBytes.Tests": 0,
-      "netfx-System.IO.StreamWriteTo": 8,
+      "netfx-System.IO.StreamWriteTo": 9,
       "netfx-System.IO.StreamWriteTo.Tests": 0,
       "netfx-System.ISerializer": 6,
       "netfx-System.ISerializer.Tests.xUnit": 1,
@@ -1266,7 +1400,7 @@
       "netfx-System.Xml.XmlDecode.Tests": 0,
       "netfx-System.Xml.XmlEncode": 0,
       "netfx-System.Xml.XmlEncode.Tests": 0,
-      "netfx-System.Xml.XmlSerializer": 1060,
+      "netfx-System.Xml.XmlSerializer": 1055,
       "netfx-System.Xml.XmlSerializer.Tests": 0,
       "netfx-System.XmlSerializer": 0,
       "netfx-System.XmlSerializer.Tests.xUnit": 0,
@@ -1276,7 +1410,7 @@
       "netfx-WebApi.TracingChannel": 1
     },
     "ChilliCream/skills": {
-      "skills": 6
+      "skills": 5
     },
     "devlooped/Azure.Functions.OpenApi": {
       "Devlooped.Azure.Functions.OpenApi": 0
@@ -1286,11 +1420,11 @@
       "Devlooped.CloudActors.Streamstone": 1
     },
     "devlooped/CloudStorageAccount": {
-      "Devlooped.CloudStorageAccount": 45,
+      "Devlooped.CloudStorageAccount": 46,
       "Devlooped.CloudStorageAccount.Source": 2
     },
     "devlooped/CredentialManager": {
-      "Devlooped.CredentialManager": 54
+      "Devlooped.CredentialManager": 71
     },
     "devlooped/DependencyInjection": {
       "Devlooped.Extensions.DependencyInjection": 16,
@@ -1300,29 +1434,29 @@
       "Devlooped.Dynamically": 3
     },
     "devlooped/Extensions.AI": {
-      "Devlooped.Extensions.AI": 11
+      "Devlooped.Extensions.AI": 10
     },
     "devlooped/GitInfo": {
-      "GitInfo": 2806
+      "GitInfo": 2876
     },
     "devlooped/Injector": {
       "Devlooped.Injector": 2
     },
     "devlooped/JQSharp": {
-      "Devlooped.JQSharp": 18
+      "Devlooped.JQSharp": 20
     },
     "devlooped/Merq": {
       "Merq": 5,
       "Merq.AutoMapper": 1,
       "Merq.Core": 1,
-      "Merq.DependencyInjection": 4,
+      "Merq.DependencyInjection": 5,
       "Merq.VisualStudio": 1
     },
     "devlooped/Mvp.Xml": {
-      "Mvp.Xml": 1619
+      "Mvp.Xml": 1634
     },
     "devlooped/NuDoq": {
-      "NuDoq": 74
+      "NuDoq": 75
     },
     "devlooped/PackageReferenceCleaner": {
       "PackageReferenceCleaner": 0
@@ -1334,7 +1468,7 @@
       "Schematron": 5
     },
     "devlooped/SmallSharp": {
-      "SmallSharp": 6
+      "SmallSharp": 5
     },
     "devlooped/Spectre.Yaml": {
       "Devlooped.Spectre.Yaml": 1
@@ -1346,7 +1480,7 @@
       "StructId": 8
     },
     "devlooped/TableStorage": {
-      "Devlooped.TableStorage": 30,
+      "Devlooped.TableStorage": 32,
       "Devlooped.TableStorage.Bson": 3,
       "Devlooped.TableStorage.Bson.Source": 7,
       "Devlooped.TableStorage.MessagePack": 3,
@@ -1358,15 +1492,15 @@
       "Devlooped.TableStorage.Source": 8
     },
     "devlooped/ThisAssembly": {
-      "ThisAssembly": 52,
-      "ThisAssembly.AssemblyInfo": 134,
-      "ThisAssembly.Constants": 2039,
-      "ThisAssembly.Git": 113,
-      "ThisAssembly.Metadata": 70,
-      "ThisAssembly.Prerequisites": 58,
-      "ThisAssembly.Project": 143,
-      "ThisAssembly.Resources": 88,
-      "ThisAssembly.Strings": 61,
+      "ThisAssembly": 58,
+      "ThisAssembly.AssemblyInfo": 147,
+      "ThisAssembly.Constants": 2152,
+      "ThisAssembly.Git": 121,
+      "ThisAssembly.Metadata": 75,
+      "ThisAssembly.Prerequisites": 57,
+      "ThisAssembly.Project": 153,
+      "ThisAssembly.Resources": 96,
+      "ThisAssembly.Strings": 68,
       "ThisAssembly.Vsix": 3
     },
     "devlooped/Web": {
@@ -1378,21 +1512,21 @@
       "WebSocketChannel": 2
     },
     "devlooped/WebSocketPipe": {
-      "WebSocketPipe": 4
+      "WebSocketPipe": 5
     },
     "devlooped/WebSocketeer": {
       "WebSocketeer": 1
     },
     "devlooped/WhatsApp": {
-      "Devlooped.WhatsApp": 6,
+      "Devlooped.WhatsApp": 9,
       "dotnet-whatsapp": 3
     },
     "devlooped/chromium": {
-      "chromium": 217,
-      "chromium.linux-x64": 94,
-      "chromium.win-x64": 108,
+      "chromium": 122,
+      "chromium.linux-x64": 59,
+      "chromium.win-x64": 61,
       "chromium.win-x86": 9,
-      "dotnet-chromium": 11
+      "dotnet-chromium": 9
     },
     "devlooped/dotnet-env": {
       "dotnet-env": 2
@@ -1404,7 +1538,7 @@
       "dotnet-evergreen": 1
     },
     "devlooped/dotnet-file": {
-      "dotnet-file": 80
+      "dotnet-file": 82
     },
     "devlooped/dotnet-gcm": {
       "dotnet-gcm": 65
@@ -1413,7 +1547,7 @@
       "dotnet-openai": 2
     },
     "devlooped/dotnet-retest": {
-      "dotnet-retest": 530
+      "dotnet-retest": 513
     },
     "devlooped/dotnet-stop": {
       "stop": 3
@@ -1422,11 +1556,11 @@
       "dotnet-tor": 1
     },
     "devlooped/dotnet-trx": {
-      "dotnet-trx": 1069
+      "dotnet-trx": 1111
     },
     "devlooped/dotnet-vs": {
       "dotnet-vs": 68,
-      "vs": 4
+      "vs": 3
     },
     "devlooped/dotnet-x": {
       "dotnet-x": 1
@@ -1441,21 +1575,21 @@
       "ISBN": 31
     },
     "devlooped/jq": {
-      "Devlooped.JQ": 1253
+      "Devlooped.JQ": 1297
     },
     "devlooped/json": {
-      "JsonPeek": 104,
-      "JsonPoke": 53
+      "JsonPeek": 109,
+      "JsonPoke": 54
     },
     "devlooped/json5": {
-      "Json5": 8,
+      "Json5": 9,
       "Json5.Configuration": 5
     },
     "devlooped/moq": {
-      "Moq": 387181
+      "Moq": 404830
     },
     "devlooped/nugetizer": {
-      "NuGetizer": 378,
+      "NuGetizer": 436,
       "dotnet-nugetize": 7
     },
     "devlooped/okf": {
@@ -1471,32 +1605,46 @@
       "Smith": 4
     },
     "devlooped/stunts": {
-      "Avatar": 55,
+      "Avatar": 54,
       "Avatar.CodeAnalysis": 0,
       "Avatar.DynamicProxy": 0,
       "Avatar.StaticProxy": 0,
       "ManualAvatars": 0,
-      "Stunts": 79,
-      "Stunts.DynamicProxy": 72
+      "Stunts": 20,
+      "Stunts.DynamicProxy": 17
     },
     "devlooped/xAI": {
       "grok": 3,
-      "xAI": 22
+      "xAI": 21
     },
     "devlooped/xunit.assemblyfixture": {
-      "xunit.assemblyfixture": 479
+      "xunit.assemblyfixture": 490
     },
     "devlooped/xunit.vsix": {
       "xunit.vsix": 1
     },
     "devlooped/yaml": {
-      "YamlPeek": 38
+      "YamlPeek": 39
     },
     "dotnetconfig/dotnet-config": {
-      "DotNetConfig": 2851,
+      "DotNetConfig": 2859,
       "DotNetConfig.CommandLine": 5,
-      "DotNetConfig.Configuration": 17,
-      "dotnet-config": 82
+      "DotNetConfig.Configuration": 18,
+      "dotnet-config": 87
+    },
+    "kzu/CodeAlta": {
+      "sxsi.linux-arm64": 12,
+      "sxsi.linux-x64": 12,
+      "sxsi.osx-arm64": 11,
+      "sxsi.osx-x64": 12,
+      "sxsi.win-arm64": 13,
+      "sxsi.win-x64": 13,
+      "xsi.linux-arm64": 19,
+      "xsi.linux-x64": 21,
+      "xsi.osx-arm64": 19,
+      "xsi.osx-x64": 18,
+      "xsi.win-arm64": 19,
+      "xsi.win-x64": 18
     },
     "kzu/Gherkinator": {
       "Gherkinator": 1,
@@ -1506,36 +1654,36 @@
       "dotnet-echo": 20
     },
     "kzu/run": {
-      "cleanr": 6,
-      "cleanr.any": 7,
-      "cleanr.linux-x64": 7,
-      "cleanr.osx-arm64": 8,
-      "cleanr.win-x64": 7,
+      "cleanr": 10,
+      "cleanr.any": 8,
+      "cleanr.linux-x64": 10,
+      "cleanr.osx-arm64": 10,
+      "cleanr.win-x64": 16,
       "copilot": 1,
       "tts": 2,
-      "tts.any": 9,
-      "tts.linux-x64": 10,
-      "tts.osx-arm64": 10,
-      "tts.win-x64": 11,
-      "windom": 5
+      "tts.any": 4,
+      "tts.linux-x64": 6,
+      "tts.osx-arm64": 6,
+      "tts.win-x64": 6,
+      "windom": 2
     },
     "mono/mono.posix": {
-      "Mono.Posix": 1768
+      "Mono.Posix": 1791
     },
     "mono/t4": {
-      "Mono.TextTemplating": 267283
+      "Mono.TextTemplating": 287901
     }
   },
   "summary": {
-    "authors": "174",
-    "repositories": "64",
-    "packages": "357",
-    "downloads": "674k"
+    "authors": "188",
+    "repositories": "65",
+    "packages": "369",
+    "downloads": "712.6k"
   },
   "totals": {
-    "authors": 174,
-    "repositories": 64,
-    "packages": 357,
-    "downloads": 674001
+    "authors": 188,
+    "repositories": 65,
+    "packages": 369,
+    "downloads": 712622
   }
 }
